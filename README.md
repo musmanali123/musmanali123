@@ -1,3 +1,4 @@
+<img  align="centre" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkHaFG7uwbE1vct7T29knJs9afvZWVKVOrJg&usqp=CAU"/>
 <h1 align="center">Hi 👋, I'm Mohammad Usman Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
