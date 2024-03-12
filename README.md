@@ -4,7 +4,7 @@
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musmanali123&label=Profile%20views&color=0e75b6&style=flat" alt="musmanali123" /> </p>
 
-- 🔭 I’m currently working on [Superior Crane](http://localhost:3000/dashBoard)
+- 🔭 I’m currently working on Gaming & E-commerce products :
 
 - 🌱 I’m currently learning **BlockChain,web3**
 
